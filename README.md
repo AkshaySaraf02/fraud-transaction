@@ -57,10 +57,4 @@ To run the project locally, follow these steps:
 - Scikit-learn
 
 ## License
-[Specify the license under which the project is distributed.]
-
-Feel free to modify and adapt the project according to your needs.
-
-For more details, please refer to the [LICENSE](LICENSE) file.
-
-Please let me know if there's anything else I can assist you with!
+This project is licensed under the [MIT License](LICENSE).
